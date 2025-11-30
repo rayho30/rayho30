@@ -1,7 +1,5 @@
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rayho30&show_icons=true&theme=dark" height="160px" />
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rayho30&show_icons=true&theme=dark" />
+
 
 ### 🔰 Most Used Languages
 <p align="center">
