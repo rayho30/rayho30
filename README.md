@@ -15,6 +15,6 @@
   <br/>
 
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,git,github,vscode,figma,typescript" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,git,github,vscode,go,typescript" />
 
 </p>
