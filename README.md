@@ -1,6 +1,5 @@
 <div align="center">
 
-<h3><code>$ whoami --verbose</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./portrait.svg" width="360" /></td>
