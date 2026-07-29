@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Student 
+Computer Science Student from bangladesh
 
 
 ## 🌐 Socials:
