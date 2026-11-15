@@ -1,41 +1,6 @@
 {
   "days": [
     {
-      "date": "2025-11-09",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-10",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-11-11",
-      "count": 2,
-      "level": 2
-    },
-    {
-      "date": "2025-11-12",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-13",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-11-14",
-      "count": 2,
-      "level": 2
-    },
-    {
-      "date": "2025-11-15",
-      "count": 1,
-      "level": 1
-    },
-    {
       "date": "2025-11-16",
       "count": 0,
       "level": 0
@@ -1852,14 +1817,19 @@
     },
     {
       "date": "2026-11-14",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-15",
       "count": 0,
       "level": 0
     }
   ],
-  "total": 188,
+  "total": 182,
   "current_streak": 0,
   "longest_streak": 145,
   "busiest_weekday": "Saturday",
-  "generated_at": "2026-11-14T11:58:02.281554Z",
+  "generated_at": "2026-11-15T12:33:35.948214Z",
   "username": "rayho30"
 }
